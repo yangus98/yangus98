@@ -1,8 +1,13 @@
-<h1 align="center">Hi 👋, I'm Giuseppe Bianconi</h1>
-<h3 align="center">A passionate fullstack developer from Italy</h3>
-<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=yangus98&label=Profile%20views&color=0e75b6&style=flat" alt="yangus98" /></p>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yangus98&show_icons=true&locale=en" alt="yangus98"/>
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=yangus98&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=yangus98&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
+</a>
+
+<a href=#><img src="contributions.svg"></a>
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yangus98&show_icons=true&locale=en&layout=compact" alt="yangus98" />
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/_yangus98/count.svg" />
 </p>
